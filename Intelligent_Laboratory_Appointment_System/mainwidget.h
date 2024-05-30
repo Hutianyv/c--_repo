@@ -3,13 +3,14 @@
 
 #include <QWidget>
 #include <QGridLayout>
+#include <QLabel>
+#include <QMap>
+#include <QVBoxLayout>
 #include "boxwidget.h"
 
-QT_BEGIN_NAMESPACE
 namespace Ui {
 class MainWidget;
 }
-QT_END_NAMESPACE
 
 class MainWidget : public QWidget
 {
@@ -18,13 +19,25 @@ class MainWidget : public QWidget
 public:
     explicit MainWidget(QWidget *parent = nullptr);
     ~MainWidget();
+    void setLabelText(const QString &text);
 
 private slots:
-    void handleBoxClicked();
+    void handleBoxClicked(int id);
+    void changeBoxState(int id, bool toMalfunction);
+    void reserveBoxSlot(int id, const QString &timeSlot);
+    void updateDateTime();
+    void checkReservations();
+    void cancelReservation(int id);
 
 private:
     Ui::MainWidget *ui;
     QGridLayout *gridLayout;
+    QMap<int, BoxWidget*> boxWidgets;
+    QString currentUsername;
+    QTimer *reservationTimer;
+    void saveState();
+    void loadState();
+
 };
 
 #endif // MAINWIDGET_H

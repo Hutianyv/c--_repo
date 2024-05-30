@@ -1,0 +1,244 @@
+{
+    "boxes": [
+        {
+            "id": 0,
+            "reservedBy": "",
+            "state": 0,
+            "timeSlot": ""
+        },
+        {
+            "id": 1,
+            "reservedBy": "",
+            "state": 0,
+            "timeSlot": ""
+        },
+        {
+            "id": 2,
+            "reservedBy": "",
+            "state": 0,
+            "timeSlot": ""
+        },
+        {
+            "id": 3,
+            "reservedBy": "",
+            "state": 0,
+            "timeSlot": ""
+        },
+        {
+            "id": 4,
+            "reservedBy": "",
+            "state": 0,
+            "timeSlot": ""
+        },
+        {
+            "id": 5,
+            "reservedBy": "",
+            "state": 0,
+            "timeSlot": ""
+        },
+        {
+            "id": 6,
+            "reservedBy": "",
+            "state": 0,
+            "timeSlot": ""
+        },
+        {
+            "id": 7,
+            "reservedBy": "",
+            "state": 0,
+            "timeSlot": ""
+        },
+        {
+            "id": 8,
+            "reservedBy": "",
+            "state": 0,
+            "timeSlot": ""
+        },
+        {
+            "id": 9,
+            "reservedBy": "B23040523",
+            "state": 1,
+            "timeSlot": "16:00-18:00"
+        },
+        {
+            "id": 10,
+            "reservedBy": "",
+            "state": 0,
+            "timeSlot": ""
+        },
+        {
+            "id": 11,
+            "reservedBy": "B23040523",
+            "state": 1,
+            "timeSlot": "10:00-12:00"
+        },
+        {
+            "id": 12,
+            "reservedBy": "",
+            "state": 0,
+            "timeSlot": ""
+        },
+        {
+            "id": 13,
+            "reservedBy": "",
+            "state": 0,
+            "timeSlot": ""
+        },
+        {
+            "id": 14,
+            "reservedBy": "",
+            "state": 0,
+            "timeSlot": ""
+        },
+        {
+            "id": 15,
+            "reservedBy": "",
+            "state": 0,
+            "timeSlot": ""
+        },
+        {
+            "id": 16,
+            "reservedBy": "",
+            "state": 0,
+            "timeSlot": ""
+        },
+        {
+            "id": 17,
+            "reservedBy": "",
+            "state": 0,
+            "timeSlot": ""
+        },
+        {
+            "id": 18,
+            "reservedBy": "",
+            "state": 0,
+            "timeSlot": ""
+        },
+        {
+            "id": 19,
+            "reservedBy": "",
+            "state": 0,
+            "timeSlot": ""
+        },
+        {
+            "id": 20,
+            "reservedBy": "",
+            "state": 0,
+            "timeSlot": ""
+        },
+        {
+            "id": 21,
+            "reservedBy": "",
+            "state": 0,
+            "timeSlot": ""
+        },
+        {
+            "id": 22,
+            "reservedBy": "",
+            "state": 0,
+            "timeSlot": ""
+        },
+        {
+            "id": 23,
+            "reservedBy": "",
+            "state": 0,
+            "timeSlot": ""
+        },
+        {
+            "id": 24,
+            "reservedBy": "",
+            "state": 0,
+            "timeSlot": ""
+        },
+        {
+            "id": 25,
+            "reservedBy": "",
+            "state": 0,
+            "timeSlot": ""
+        },
+        {
+            "id": 26,
+            "reservedBy": "",
+            "state": 0,
+            "timeSlot": ""
+        },
+        {
+            "id": 27,
+            "reservedBy": "",
+            "state": 0,
+            "timeSlot": ""
+        },
+        {
+            "id": 28,
+            "reservedBy": "",
+            "state": 0,
+            "timeSlot": ""
+        },
+        {
+            "id": 29,
+            "reservedBy": "",
+            "state": 0,
+            "timeSlot": ""
+        },
+        {
+            "id": 30,
+            "reservedBy": "",
+            "state": 0,
+            "timeSlot": ""
+        },
+        {
+            "id": 31,
+            "reservedBy": "",
+            "state": 0,
+            "timeSlot": ""
+        },
+        {
+            "id": 32,
+            "reservedBy": "",
+            "state": 0,
+            "timeSlot": ""
+        },
+        {
+            "id": 33,
+            "reservedBy": "",
+            "state": 0,
+            "timeSlot": ""
+        },
+        {
+            "id": 34,
+            "reservedBy": "",
+            "state": 0,
+            "timeSlot": ""
+        },
+        {
+            "id": 35,
+            "reservedBy": "",
+            "state": 0,
+            "timeSlot": ""
+        },
+        {
+            "id": 36,
+            "reservedBy": "",
+            "state": 0,
+            "timeSlot": ""
+        },
+        {
+            "id": 37,
+            "reservedBy": "",
+            "state": 0,
+            "timeSlot": ""
+        },
+        {
+            "id": 38,
+            "reservedBy": "",
+            "state": 0,
+            "timeSlot": ""
+        },
+        {
+            "id": 39,
+            "reservedBy": "",
+            "state": 0,
+            "timeSlot": ""
+        }
+    ]
+}

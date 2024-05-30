@@ -3,11 +3,9 @@
 
 #include <QWidget>
 
-QT_BEGIN_NAMESPACE
 namespace Ui {
 class LoginWidget;
 }
-QT_END_NAMESPACE
 
 class LoginWidget : public QWidget
 {
@@ -18,15 +16,13 @@ public:
     ~LoginWidget();
 
 signals:
-    void loginSuccessful();
+    void loginButtonClicked();
 
 private slots:
-    void onLoginButtonClicked();
+    void on_loginButton_clicked();
 
 private:
     Ui::LoginWidget *ui;
 };
 
 #endif // LOGINWIDGET_H
-
-

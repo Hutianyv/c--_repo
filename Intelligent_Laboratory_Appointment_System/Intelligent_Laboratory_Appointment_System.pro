@@ -13,19 +13,25 @@ SOURCES += \
     loginwidget.cpp \
     main.cpp \
     mainwidget.cpp \
-    mainwindow.cpp
+    mainwindow.cpp \
+    smallwindow.cpp
 
 HEADERS += \
     boxwidget.h \
     loginwidget.h \
     mainwidget.h \
-    mainwindow.h
+    mainwindow.h \
+    smallwindow.h
 
 FORMS += \
     loginwidget.ui \
-    mainwidget.ui
+    mainwidget.ui \
+    smallwindow.ui
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin
 else: unix:!android: target.path = /opt/$${TARGET}/bin
 !isEmpty(target.path): INSTALLS += target
+
+RESOURCES += \
+    resources.qrc
